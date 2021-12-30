@@ -4,7 +4,38 @@ Visit JLCPCB (https://jlcpcb.com/RAT)
 
 The article is being published in collaboration with JLCPCB. It is one of the most experienced PCB manufacturers with more than a decade in the field of PCB prototype and fabrication, they are committed to meeting the needs of our customers from different industries in terms of quality, delivery, cost-effectiveness and any other demanding requests.
 
-Ordering the PCBs From JLCPCB
+# Introduction
+
+The TMP117 is a high-precision, digital temperature sensor. What makes the TMP117 stand out is its ability to be accurate down to ±0.1°C (from -20°C to 50°C). The measurements can also have a resolution of 0.0078°C! This is great for projects that require more stable temperature readings. There's also additional features that come with the TMP117. Some of these features include offsetting the temperature, entering low-power mode, and averaging the readings.
+
+# Features:
+•	Uses I2C interface (Qwiic-enabled)
+•	Four selectable addresses
+•	0x48 (default), 0x49, 0x4A, 0x4B
+•	16-bit resolution, 0.0078°C
+•	High accuracy, digital temperature sensor
+•	±0.1°C (max) from –20°C to 50°C
+•	±0.15°C (max) from –40°C to 70°C
+•	±0.2°C (max) from –40°C to 100°C
+•	±0.25°C (max) from –55°C to 125°C
+•	±0.3°C (max) from –55°C to 150°C
+•	Operating temperature range
+•	-55°C to +150°C
+•	Operating voltage range
+•	1.8V to 5.5V
+•	Typically 3.3V if using the Qwiic cable
+•	Low power consumption
+•	3.5µA (1-Hz conversion cycle)
+•	150nA (shutdown current)
+•	Programmable operating modes
+•	Continuous, one-shot, and shutdown
+•	Programmable temperature alert limits
+•	Selectable averaging for reduced noise
+•	Digital offset for system correction
+•	NIST traceability
+
+
+# Ordering the PCBs From JLCPCB
 Full Process is shown using Screenshots Step-wise.
 
 Now we have got the PCB design and it’s time to order the PCB’s. For that, you just have to go to JLCPCB, and click on “QUOTE NOW” button.
